@@ -5,7 +5,7 @@ To develop a program to develop a simple calculator in Android Studio.
 ## EQUIPMENTS REQUIRED:
 Android Studio(Latest Version)
 
-## ALGORITHM:
+## ALGORITHM: 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as calculator and click Next.
@@ -27,6 +27,7 @@ Program to print the text “calculator operation”.
 Developed by: Praveen V
 
 Registeration Number : 212222040121
+
 */
 
 ## activity_main.xml:
