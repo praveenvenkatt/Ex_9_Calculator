@@ -21,14 +21,13 @@ Step 6: Display the calculator operation in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-/*
+
 Program to print the text “calculator operation”.
 
 Developed by: Praveen V
 
 Registeration Number : 212222040121
 
-*/
 
 ## activity_main.xml:
 ```
